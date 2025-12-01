@@ -1,0 +1,12 @@
+# Ignore data files
+*.xlsx
+*.xls
+*.csv
+
+# Ignore system files
+__pycache__/
+*.pyc
+.DS_Store
+.idea/
+venv/
+saved_model/
